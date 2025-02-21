@@ -15,6 +15,10 @@
 3. Введіть назву країни (або штату для США).
 4. Завоюйте бали та перевірте свої знання!
 
+## Сутності
+1. Користувач (Гравець)
+2. Адміністратор 
+
 ## Автори
 Розроблено [Best IC-42 Team].
 
@@ -36,6 +40,10 @@
 2. A country's flag will be displayed.
 3. Enter the country's name (or the state for the USA).
 4. Earn points and test your knowledge!
+
+## Entities
+1. User (Player)
+2. Administrator
 
 ## Authors
 Developed by [Best IC-42 Team].
